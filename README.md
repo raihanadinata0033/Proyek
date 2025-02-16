@@ -1,2 +1,2 @@
 # Proyek
-Desain Tugas Proyek - Raihan Adinata
+Proyek - Raihan Adinata
